@@ -1,0 +1,24 @@
+{
+  "name": "facebook_graph",
+  "version": "1.0.0",
+  "description": "make a Facebook graph api call by request module",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qazwsxedccsqzse/facebook_graph.git"
+  },
+  "author": "Neil Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qazwsxedccsqzse/facebook_graph/issues"
+  },
+  "homepage": "https://github.com/qazwsxedccsqzse/facebook_graph#readme"
+}
